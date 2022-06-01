@@ -2,6 +2,5 @@
 # Making changes to the README file
 # Just adding this text
 
-#Different conflict changes
+# Conflict changes
 
-# very different
